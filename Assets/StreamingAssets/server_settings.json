@@ -1,7 +1,7 @@
 {
     "type" : "server_settings",
-    "server_url" : "https://cwk.retroretreat.net/",
-    "local_server_url" : "http://127.0.0.1:8000/",
-    "photon_chat_app_id": "",
-    "photon_pun_app_id": ""
+    "server_url" : "https://scaling-eureka-5grjg7j6pvx6c49j-5000.app.github.dev",
+    "local_server_url" : "https://scaling-eureka-5grjg7j6pvx6c49j-5000.app.github.dev",
+    "photon_chat_app_id": "18687d8b-a5aa-43f7-91de-9ca56d16906d",
+    "photon_pun_app_id": "1e02710a-ded8-4cfb-86b2-cf0a12cfb5bf"
 }
